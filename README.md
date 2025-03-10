@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Greis 👋
 
-<!--
-**Greizs/Greizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **estudiante** de ingeniería en sistemas que se apasiona por crear e implementar experiencias increíbles en la web. Mi viaje como desarrollador está comenzando, pero me encanta enfrentarme a nuevos desafíos y aprender algo nuevo todos los días.
 
-Here are some ideas to get you started:
+## 🚀 Mi enfoque
+- 🌐 **Frontend**: Actualmente, me estoy sumergiendo en todo lo relacionado con el desarrollo frontend. Disfruto trabajando con **HTML**, **CSS**, **JavaScript** y frameworks modernos como **React**, **Vue.js**, y **Tailwind CSS**. Mi objetivo es crear interfaces limpias, rápidas y accesibles para todos los usuarios.
+- 🔍 **Aprendizaje continuo**: Estoy en una misión constante de mejorar mis habilidades y explorar nuevas tecnologías. Cada proyecto es una oportunidad para mejorar y crecer.
+  
+## 🛠️ Herramientas y tecnologías
+- **Lenguajes**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks y bibliotecas**: React, React Native, Vue.js, Next.js, Tailwind CSS
+- **Version control**: Git, GitHub
+- **IDE**: Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Proyectos en los que estoy trabajando
+- **¡Desarrollando mi portafolio personal!** Aquí estoy integrando todo lo que estoy aprendiendo y mostrando mi evolución como desarrollador.
