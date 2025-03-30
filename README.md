@@ -1,6 +1,6 @@
-# Hola, soy Greis 👋
+# Hola, soy Bran 👋
 
-Soy **estudiante** de ingeniería en sistemas que se apasiona por crear e implementar experiencias increíbles en la web. Mi viaje como desarrollador está comenzando, pero me encanta enfrentarme a nuevos desafíos y aprender algo nuevo todos los días.
+Soy **estudiante** de ingeniería en sistemas por parte de la UNAM que se apasiona por crear e implementar experiencias increíbles en la web. Mi viaje como desarrollador está comenzando, pero me encanta enfrentarme a nuevos desafíos y aprender algo nuevo todos los días.
 
 ## 🚀 Mi enfoque
 - 🌐 **Frontend**: Actualmente, me estoy sumergiendo en todo lo relacionado con el desarrollo frontend. Disfruto trabajando con **HTML**, **CSS**, **JavaScript** y frameworks modernos como **React**, **Vue.js**, y **Tailwind CSS**. Mi objetivo es crear interfaces limpias, rápidas y accesibles para todos los usuarios.
